@@ -10,6 +10,7 @@ This repository contains all the exercises and my work done in FreeCodeCamp. I h
 
 
 ## Data Analysis with Python Certification
+[Certificate](https://www.freecodecamp.org/certification/fccfc29948f-e1ed-40d3-b1bd-d595832b8b1f/data-analysis-with-python-v7)
 ### Exercises
 - [NumPy exercises](https://github.com/David8523/FreeCodeCamp/blob/main/Data%20Analysis%20with%20Python/NumPy%20exercises.ipynb)
 - [Pandas Series exercises](https://github.com/David8523/FreeCodeCamp/blob/main/Data%20Analysis%20with%20Python/Pandas%20Series%20exercises.ipynb)
